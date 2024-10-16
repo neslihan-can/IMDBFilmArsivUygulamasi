@@ -18,6 +18,11 @@ namespace IMDBFilmArsivUygulamasi.Controllers
             return View();
         }
 
+        public IActionResult Türler()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
